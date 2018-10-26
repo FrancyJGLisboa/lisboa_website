@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Data analytics, Science, and Politics</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Data analytics, Science, and Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Francy Lisboa</copyright>
+    <lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The match between microbial community structure and soil properties is modulated by land use types and sample origin within an integrated agroecosystem</title>
+      <link>/publication/sbb/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Much beyond Mantel: bringing Procrustes association metric to the plant and soil ecologist’s toolbox</title>
+      <link>/publication/plos/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of litter quality on the relationship between vegetation and below-ground compartments: a Procrustean approach</title>
+      <link>/publication/plant_soil/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/plant_soil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

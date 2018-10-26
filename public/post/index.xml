@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Data analytics, Science, and Politics</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Data analytics, Science, and Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Francy Lisboa</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upcoming...</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
