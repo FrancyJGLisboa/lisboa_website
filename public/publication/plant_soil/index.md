@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website.">
+  <meta name="description" content="Aims We used a Procrustean superimposition approach associated with regression analysis to test hypotheses regarding the relationship between plant communities and distinct below-ground compartments—soil chemis-try (SC) and soil microbial activity (SMA). Additionally, we evaluated litter chemical quality as an interface be-tween the above and below-ground compartments. Methods Plant community, and soil chemical and bio-chemical data from three post-mining degraded sites under reclamation and from one nearby forest site in the Brazilian Amazon Basin were analyzed. Results All studied sites presented distinct plant com-munity, litter quality, SC and SMA. Plant community consistently affected the below-ground variation in both SC and SMA compartments. The influence of litter quality was greater in the plant community ver-sus SMA relationship than in the plant community versus SC. Nevertheless, the SC affected significantly the SMA, but without influence of litter quality. Conclusions Differently from previous studies, our findings suggest that plant community and soil chemistry can affect the soil microbial activity independently. Spe-cifically for our study area, these results point to a rupture of the &#39;in nested&#39; structure of the causal relationship between changes in vegetation, changes in the chemical litter quality, changes in the SC and the response of SMA..">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/person-re-id/">
+  <link rel="alternate" hreflang="en-us" href="/publication/plant_soil/">
 
   
 
@@ -86,30 +86,30 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/person-re-id/">
+  <link rel="canonical" href="/publication/plant_soil/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Data analytics, Science, and Politics">
-  <meta property="og:url" content="/publication/person-re-id/">
-  <meta property="og:title" content="A Person Re-Identification System For Mobile Devices | Data analytics, Science, and Politics">
-  <meta property="og:description" content="Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website.">
+  <meta property="og:url" content="/publication/plant_soil/">
+  <meta property="og:title" content="The influence of litter quality on the relationship between vegetation and below-ground compartments: a Procrustean approach | Data analytics, Science, and Politics">
+  <meta property="og:description" content="Aims We used a Procrustean superimposition approach associated with regression analysis to test hypotheses regarding the relationship between plant communities and distinct below-ground compartments—soil chemis-try (SC) and soil microbial activity (SMA). Additionally, we evaluated litter chemical quality as an interface be-tween the above and below-ground compartments. Methods Plant community, and soil chemical and bio-chemical data from three post-mining degraded sites under reclamation and from one nearby forest site in the Brazilian Amazon Basin were analyzed. Results All studied sites presented distinct plant com-munity, litter quality, SC and SMA. Plant community consistently affected the below-ground variation in both SC and SMA compartments. The influence of litter quality was greater in the plant community ver-sus SMA relationship than in the plant community versus SC. Nevertheless, the SC affected significantly the SMA, but without influence of litter quality. Conclusions Differently from previous studies, our findings suggest that plant community and soil chemistry can affect the soil microbial activity independently. Spe-cifically for our study area, these results point to a rupture of the &#39;in nested&#39; structure of the causal relationship between changes in vegetation, changes in the chemical litter quality, changes in the SC and the response of SMA..">
   
   
     
   <meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2015-09-01T00:00:00&#43;02:00">
+  <meta property="article:published_time" content="2013-07-01T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2015-09-01T00:00:00&#43;02:00">
-  
-
+  <meta property="article:modified_time" content="2013-07-01T00:00:00&#43;02:00">
   
 
   
 
-  <title>A Person Re-Identification System For Mobile Devices | Data analytics, Science, and Politics</title>
+  
+
+  <title>The influence of litter quality on the relationship between vegetation and below-ground compartments: a Procrustean approach | Data analytics, Science, and Politics</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -200,25 +200,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#projects">
-            
-            <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
           <a class="nav-link" href="/tutorial/">
             
             <span>Tutorials</span>
@@ -241,6 +222,25 @@
           <a class="nav-link" href="/#contact">
             
             <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/cv.pdf">
+            
+            <span>CV</span>
             
           </a>
         </li>
@@ -274,22 +274,18 @@
 
 
 
+  
 
-<div class="article-header d-xl-none">
-  <img src="/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_1600x400_fill_q90_box_smart1.jpg" class="article-banner" itemprop="image" alt="">
-  <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/jdD8gXaTZsc" target="_blank"><strong>Unsplash</strong></a></span>
-</div>
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">The influence of litter quality on the relationship between vegetation and below-ground compartments: a Procrustean approach</h1>
 
+  
 
-<div class="container-fluid split-header d-none d-xl-block">
-  <div class="row">
-    <div class="col-6">
-      <div class="split-header-content">
-        <h1 itemprop="name">A Person Re-Identification System For Mobile Devices</h1>
-
-        
-
-        
+  
+    
 
 <div class="article-metadata">
 
@@ -298,102 +294,28 @@
   
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">GA Cushen</span>
-    </span>
-    
-  </div>
-  
-
-  <span class="article-date">
-    
-    <meta content="2015-09-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2015-09-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
-      Sep 1, 2015
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Francy Lisboa">
-  </span>
-
-  
-
-  
-  
-
-  
-
-  
-
-</div>
-
-
-        
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices&amp;url=%2fpublication%2fperson-re-id%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fperson-re-id%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fperson-re-id%2f&amp;title=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fperson-re-id%2f&amp;title=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices&amp;body=%2fpublication%2fperson-re-id%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
-
-
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="split-header-image">
-        <img src="/publication/person-re-id/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_680x500_fill_q90_box_smart1.jpg" itemprop="image" alt="">
-        <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/jdD8gXaTZsc" target="_blank"><strong>Unsplash</strong></a></span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="article-container d-xl-none">
-  <h1 itemprop="name">A Person Re-Identification System For Mobile Devices</h1>
-
-  
-
-  
-
-<div class="article-metadata">
-
-  
-  
-  
-  <div>
+      <span itemprop="name">Lisboa, F. J. G</span>
+    </span>, 
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">GA Cushen</span>
+      <span itemprop="name">Chaer, G. M</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Jesus, E.d. C</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Faria, S. M</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Gonçalves, F. S</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Santos, F. M</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Castilho, A. F</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Berbara, R. L. L</span>
     </span>
     
   </div>
@@ -401,9 +323,9 @@
 
   <span class="article-date">
     
-    <meta content="2015-09-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2015-09-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
-      Sep 1, 2015
+    <meta content="2013-07-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2013-07-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
+      Jul 1, 2013
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -423,35 +345,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices&amp;url=%2fpublication%2fperson-re-id%2f"
+         href="https://twitter.com/intent/tweet?text=The%20influence%20of%20litter%20quality%20on%20the%20relationship%20between%20vegetation%20and%20below-ground%20compartments%3a%20a%20Procrustean%20approach&amp;url=%2fpublication%2fplant_soil%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fperson-re-id%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fplant_soil%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fperson-re-id%2f&amp;title=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fplant_soil%2f&amp;title=The%20influence%20of%20litter%20quality%20on%20the%20relationship%20between%20vegetation%20and%20below-ground%20compartments%3a%20a%20Procrustean%20approach"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fperson-re-id%2f&amp;title=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fplant_soil%2f&amp;title=The%20influence%20of%20litter%20quality%20on%20the%20relationship%20between%20vegetation%20and%20below-ground%20compartments%3a%20a%20Procrustean%20approach"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=A%20Person%20Re-Identification%20System%20For%20Mobile%20Devices&amp;body=%2fpublication%2fperson-re-id%2f">
+         href="mailto:?subject=The%20influence%20of%20litter%20quality%20on%20the%20relationship%20between%20vegetation%20and%20below-ground%20compartments%3a%20a%20Procrustean%20approach&amp;body=%2fpublication%2fplant_soil%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -463,6 +385,7 @@
 
 </div>
 
+  
 </div>
 
 
@@ -471,7 +394,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website.</p>
+    <p class="pub-abstract" itemprop="text">Aims We used a Procrustean superimposition approach associated with regression analysis to test hypotheses regarding the relationship between plant communities and distinct below-ground compartments—soil chemis-try (SC) and soil microbial activity (SMA). Additionally, we evaluated litter chemical quality as an interface be-tween the above and below-ground compartments. Methods Plant community, and soil chemical and bio-chemical data from three post-mining degraded sites under reclamation and from one nearby forest site in the Brazilian Amazon Basin were analyzed. Results All studied sites presented distinct plant com-munity, litter quality, SC and SMA. Plant community consistently affected the below-ground variation in both SC and SMA compartments. The influence of litter quality was greater in the plant community ver-sus SMA relationship than in the plant community versus SC. Nevertheless, the SC affected significantly the SMA, but without influence of litter quality. Conclusions Differently from previous studies, our findings suggest that plant community and soil chemistry can affect the soil microbial activity independently. Spe-cifically for our study area, these results point to a rupture of the &lsquo;in nested&rsquo; structure of the causal relationship between changes in vegetation, changes in the chemical litter quality, changes in the SC and the response of SMA..</p>
     
 
     
@@ -500,7 +423,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">In <em>Signal Image Technology &amp; Internet Systems (SITIS)</em>, IEEE.</div>
+          <div class="col-12 col-md-9">In <em>Plant and Soil</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -514,7 +437,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9" itemprop="datePublished">
-            September, 2015
+            July, 2013
           </div>
         </div>
       </div>
@@ -545,7 +468,7 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://arxiv.org/pdf/1512.04133v1" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://link.springer.com/content/pdf/10.1007%2Fs11104-012-1491-1.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -573,13 +496,9 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p>More detail can easily be written here using <em>Markdown</em> and $\rm \LaTeX$ math code.</p>
-</div>
+    <div class="article-style"></div>
 
     
-
-
-
 
     
 

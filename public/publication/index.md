@@ -18,7 +18,7 @@
   <meta name="description" content="Statistician">
 
   
-  <link rel="alternate" hreflang="en-us" href="">
+  <link rel="alternate" hreflang="en-us" href="/publication/">
 
   
 
@@ -78,21 +78,21 @@
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Data analytics, Science, and Politics">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Data analytics, Science, and Politics">
+  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Data analytics, Science, and Politics">
+  <link rel="feed" href="/publication/index.xml" type="application/rss+xml" title="Data analytics, Science, and Politics">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="">
+  <link rel="canonical" href="/publication/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Data analytics, Science, and Politics">
-  <meta property="og:url" content="">
-  <meta property="og:title" content="404 Page not found | Data analytics, Science, and Politics">
+  <meta property="og:url" content="/publication/">
+  <meta property="og:title" content="Publications | Data analytics, Science, and Politics">
   <meta property="og:description" content="Statistician">
   
   
@@ -100,14 +100,14 @@
   <meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  
-  
-
+  <meta property="og:updated_time" content="2017-01-01T00:00:00&#43;01:00">
   
 
   
 
-  <title>404 Page not found | Data analytics, Science, and Politics</title>
+  
+
+  <title>Publications | Data analytics, Science, and Politics</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -257,60 +257,256 @@
   </div>
 </nav>
 
-<div class="container">
 
-  <h1>Page not found</h1>
-  <p>Perhaps you were looking for one of these?</p>
 
-  
-  
-  <h2>Posts</h2>
-  
-  <ul>
-    <li><a href="/post/what-are-the-countries-with-the-largest-cropland-areas/">What are the countries with the largest cropland areas?</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/post/getting-started/">Upcoming...</a></li>
-  </ul>
-  
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
   
-  <h2>Publications</h2>
   
-  <ul>
-    <li><a href="/publication/sbb/">The match between microbial community structure and soil properties is modulated by land use types and sample origin within an integrated agroecosystem</a></li>
-  </ul>
+    
   
-  <ul>
-    <li><a href="/publication/plos/">Much beyond Mantel: bringing Procrustes association metric to the plant and soil ecologist’s toolbox</a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/publication/plant_soil/">The influence of litter quality on the relationship between vegetation and below-ground compartments: a Procrustean approach</a></li>
-  </ul>
-  
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">Publications</h1>
+
   
 
   
-  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+
+      <div class="form-row mb-3">
+        <div class="col-auto">
+          Filter by type:
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">All</option>
+            
+            <option value=".pubtype-2">
+              Journal article
+            </option>
+            
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">All</option>
+            
+            
+            
+            <option value=".year-2014">
+              2014
+            </option>
+            
+            <option value=".year-2013">
+              2013
+            </option>
+            
+            
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Lisboa, F. J. G, Chaer, G. M, Fernandes, M. F, Berbara, R. L. L, Madari, B. E</span>.
+  <a href="/publication/sbb/" itemprop="name">The match between microbial community structure and soil properties is modulated by land use types and sample origin within an integrated agroecosystem</a>.
+  In <em>Soil Biology and Biochemistry</em>,
+  2014.
+  <p>
+
+
+
+
+
 
   
+
+
+
   
-  <h2>Projects</h2>
-  
-  <ul>
-    <li><a href="/project/external-project/"></a></li>
-  </ul>
-  
-  <ul>
-    <li><a href="/project/internal-project/"></a></li>
-  </ul>
-  
+    
   
 
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://ainfo.cnptia.embrapa.br/digital/bitstream/item/112859/1/Lisboa-et-al.-2014b.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Lisboa, F. J. G, Peres-Neto, P. R, Chaer, G. M, Jesus, E.d. C, Mitchell, R. J, Chapman, S. J, Berbara, R. L. L</span>.
+  <a href="/publication/plos/" itemprop="name">Much beyond Mantel: bringing Procrustes association metric to the plant and soil ecologist’s toolbox</a>.
+  In <em>PloS one</em>,
+  2014.
+  <p>
+
+
+
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0101238&amp;type=printable" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Lisboa, F. J. G, Chaer, G. M, Jesus, E.d. C, Faria, S. M, Gonçalves, F. S, Santos, F. M, Castilho, A. F, Berbara, R. L. L</span>.
+  <a href="/publication/plant_soil/" itemprop="name">The influence of litter quality on the relationship between vegetation and below-ground compartments: a Procrustean approach</a>.
+  In <em>Plant and Soil</em>,
+  2013.
+  <p>
+
+
+
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/content/pdf/10.1007%2Fs11104-012-1491-1.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+</div>
+
+          
+        </div>
+
+        
+      </div>
+
+    </div>
+  </div>
 </div>
 <div class="container">
   <footer class="site-footer">
