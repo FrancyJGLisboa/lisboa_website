@@ -36,5 +36,5 @@ A hybrid professional at the core with experience across agricultural, environme
 
 My scientific research interests include  soil biology and biochemistry in the context of plant-soil interactions and operationalization of it into proposals of climate-smart agriculture strategies in the context of global changes.
 
-A blogger who through opinion articles addresses the Brazilian scene with a focus on politics and human rights. 
+A blogger who, through opinion articles, addresses the Brazilian scene with a focus on politics and human rights. 
 
