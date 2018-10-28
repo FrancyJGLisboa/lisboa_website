@@ -34,7 +34,7 @@ weight = 5
 
 A hybrid professional at the core with experience across agricultural, environmental, and data science domains. Research interests revolve around the optimization of data analytical and statistical workflows to help data clients making meaning out of data and achieving better results.
 
-My scientific research interests include  soil biology and biochemistry in the context of plant-soil interactions and operationalization of it into proposals of climate-smart agriculture strategies in the context of global changes.
+My scientific research interests include  soil biology and biochemistry in the context of plant-soil interactions, and the operationalization of research findings into proposals of climate-smart agriculture strategies in the context of global changes.
 
 A blogger who, through opinion articles, addresses the Brazilian scene with a focus on politics and human rights. 
 
